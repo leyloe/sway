@@ -1,0 +1,11 @@
+name: sway
+type: apt
+source:
+  packages:
+  - blackbox-terminal
+  - sway
+  - waybar
+  - swaylock
+  - swayidle
+  - wofi
+  - sway-notification-center
