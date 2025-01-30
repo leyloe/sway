@@ -43,7 +43,6 @@ stages:
         type: includes
         includes:
           - modules/00-vanilla-desktop-base.yml
-          - modules/00-vanilla-backgrounds.yml
           - modules/00-vanilla-first-setup.yml
           - modules/00-vanilla-system-operator.yml
           - modules/00-vanilla-apx-gui.yml
@@ -51,7 +50,7 @@ stages:
           - modules/00-vanilla-sideload.yml
           - modules/00-vanilla-updates-utility.yml
           - modules/00-vanilla-prime-utility.yml
-          - modules/01-cosmic.yml
+          - modules/01-sway-essentials.yml
           - modules/02-waydroid-modules.yml
           - modules/03-fswarn.yml
           - modules/10-vanilla-abroot-rollback-notifier.yml
