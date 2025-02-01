@@ -16,3 +16,5 @@ source:
   - fonts-sil-padauk
   - fonts-thai-tlwg
   - fonts-tibetan-machine
+  - fonts-font-awesome
+  - fonts-roboto
